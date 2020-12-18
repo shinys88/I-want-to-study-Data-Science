@@ -1,5 +1,5 @@
 # I-want-to-study-Data-Science
-- 데이터 사이언스를 공부하고 싶은 분들을 위한 글 
+- 데이터 사이언스를 공부하고 싶은 분들을 위한 글.
 
 ## Notice
 - 모든 문서는 [[Wiki](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki)]에 있습니다
